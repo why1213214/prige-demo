@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-
+123232
   </div>
 </template>
 
